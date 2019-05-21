@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319982488702",
+    "firebase_url": "https://spyva-b67a4.firebaseio.com",
+    "project_id": "spyva-b67a4",
+    "storage_bucket": "spyva-b67a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319982488702:android:7307a3e27f597257",
+        "android_client_info": {
+          "package_name": "com.example.spyva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319982488702-0pav4ct2nevn2hjo850udd50bipsji64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4gcS4M_a9yhW4DIPfD0lo5ryBRp-2IS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319982488702-0pav4ct2nevn2hjo850udd50bipsji64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
